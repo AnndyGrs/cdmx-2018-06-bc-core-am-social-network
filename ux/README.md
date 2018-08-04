@@ -50,8 +50,8 @@ Many of them belong to different feminist groups with different themes or sub-th
 
 #Comparing competitors
 
-![Benchmark competitors in login](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Muro.jpg)
-![Benchmark competitors in wall](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Sidebar.jpg)
+![Benchmark competitors in login](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/benchmarks/Diapositiva1.PNG)
+![Benchmark competitors in wall](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/benchmarks/Diapositiva2.PNG)
 
 
 #SHERO: A feminist social network
