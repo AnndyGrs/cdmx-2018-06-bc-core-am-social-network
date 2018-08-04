@@ -48,8 +48,13 @@ Many of them belong to different feminist groups with different themes or sub-th
 
 # User objetive
 
-#SHERO: A FEMINIST SOCIAL NETWORK
+#Comparing competitors
 
+![Benchmark competitors in login](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Muro.jpg)
+![Benchmark competitors in wall](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Sidebar.jpg)
+
+
+#SHERO: A feminist social network
 
 
 
