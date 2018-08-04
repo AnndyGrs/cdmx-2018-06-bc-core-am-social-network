@@ -30,6 +30,8 @@ It remains a secret group due to the cyber bullying they receive, filtering of p
 
 The information obtained was analyzed and concentrated on [Business Model Canvas](https://realtimeboard.com/app/board/o9J_kzKLMY8=/)
 
+![Bussiness model canvan](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/canvas/bussiness%20model%20canvan.png)
+
 # User
 
 but there is no social network for them. Using social networks like facebook, twitter, instagram, etc. **they do not have an exclusive social network for them.**  
@@ -49,11 +51,13 @@ Many of them belong to different feminist groups with different themes or sub-th
 #SHERO: A FEMINIST SOCIAL NETWORK
 
 
+
+
 # Prototype
 An **app-mobile first** web based design was realized. This is our first version.
 
 ### Mobile
-First sketches ideas
+####First sketches ideas
 
 ![inicio](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Inicio.jpg)
 ![inicio-sesion](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Inicio-sesion.jpg)
@@ -62,17 +66,11 @@ First sketches ideas
 ![muro](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Muro.jpg)
 ![sidebar](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Sidebar.jpg)
 
-Second sketches ideas
-
-<!-- ![]() -->
-<!-- ![]() -->
-<!-- ![]() -->
-<!-- ![]() -->
-<!-- ![]() -->
+####Final sketches ideas
 
 ### Web design
 
-First sketches ideas
+####First sketches ideas
 
 ![inicio-registro](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-desktop/Inicio-Registro.jpg)
 ![acerca-nosotras](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-desktop/Acerca-de-nosotras.jpg)
@@ -80,10 +78,27 @@ First sketches ideas
 ![muro](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-desktop/Muro.jpg)
 ![sidebar](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-desktop/Sidebar.jpg)
 
-Final sketches
 
-<!-- ![]() -->
-<!-- ![]() -->
-<!-- ![]() -->
-<!-- ![]() -->
-<!-- ![]() -->
+
+####Final sketches ideas
+
+![Inicio](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/sketch-desktop/Sketch-desktop%20(1).png)
+![Inicio-registro](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/sketch-desktop/Sketch-desktop%20(3).png) 
+![Inicio-sesion](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/sketch-desktop/Sketch-desktop%20(2).png) 
+
+
+### Colors
+![1](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette1.png)
+![2](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette2.png)
+![3](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette3.png)
+![4](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette4.png)
+![5](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette5.png)
+
+
+![]()
+![]()
+![]()
+![]()
+
+![]()
+![]()
