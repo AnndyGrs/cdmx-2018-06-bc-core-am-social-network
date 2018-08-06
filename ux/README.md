@@ -22,8 +22,7 @@ Access to the internet is a human right, the right to exercise freedom of expres
 
 The importance of a space for communicate about the issues in the life in womans and how the sexism affects their lifes is study in the year Dr. Mindi Foster of Wildrid Laurier University in Canada write a inform [“Tweeting about sexism: the well-being benefits of a social media collective action”](https://www.ncbi.nlm.nih.gov/pubmed/25639601) the text talks about the womans who suffering arasement in his lifes, and how to tweet about it helps them, a feeling of support and community manages to make them overcome these experiences.
 
-
-In the report Digital Gender Gap in Mexico, what are we talking about when we talk about access?, supported by the World Wide Web Foundation and UN Women, she points out that in 2016 51.5 percent of women had an Internet connection, "even above men whose figure was at 48.5 percent. However, the revolution in information and communication technologies is not yet transforming the lives of women, "explained Gisela Pérez de Acha, who made the report.
+In the report [Digital Gender Gap in Mexico](https://webfoundation.org/2018/05/the-hidden-gender-gap-internet-access-statistics-in-mexico/), what are we talking about when we talk about access?, supported by the World Wide Web Foundation and UN Women, she points out that in 2016 51.5 percent of women had an Internet connection, "even above men whose figure was at 48.5 percent. However, the revolution in information and communication technologies is not yet transforming the lives of women, "explained Gisela Pérez de Acha, who made the report.
 
 In Mexico, feminist has high activity in social networks. Social networks such as facebook or twitter are one of their main tools and bastions. Although Facebook groups are used by feminists as spaces to share and create support networks, they are constantly harassed by their ideology.
 
@@ -60,54 +59,57 @@ The results: [Demographic Survey](https://alejandra322.typeform.com/report/OMFHc
 
 The majority of users of feminist groups on Facebook have reported being victims of cyberbullying (sexting, stlaked, grooming, shaming and doxing).
 
-Many of them belong to different feminist groups with different themes or sub-themes such as sales, support, job search, maternity, fun,
+Many of them belong to different feminist groups with different themes or sub-themes such as sales, support, job search, maternity, fun, cinema, etc.
+
+In the second survey fifteen questions were asked, which were answered by 105 respondents, analyzing the results concluded: Facebook is the most used social network, followed by YouTube, Instagram and twitter below it is Google +, 48% belongs to feminist collectives in some social network, and spend less than 30 minutes a day to participate in these groups, the main objective when using these social networks is to know more about feminism, followed by creating support networks, followed by buying and selling, and subsequently to learn about events. 59% would be willing to register in a social network for feminists, and 53% are willing to create community with men.
+
+
+
+The information is concentrated in the document ["Shero Social Network"](https://docs.google.com/spreadsheets/d/14C8wYdjq5J4GWBYT-O9hS7t1LdnMKVfqX_4cI7iAQls/edit?usp=sharing)
 
 The information obtained was analyzed and concentrated on [Business Model Canvas](https://realtimeboard.com/app/board/o9J_kzKLMY8=/)
 
-  
-
 ![Bussiness model canvan](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/canvas/bussiness%20model%20canvan.png)
 
-  
 
 # Needs of the users
 
-  
-  
-  
+The main pains of our user are in the loss of information, information is lost in a very short time and it is difficult to access it again, for example, when they want to return to see shared content about a book or a product that has to ask be republished and wait for your requests to be answered.
 
-# User objetive
+Navigation between several groups is also a problem, because when users decide to talk about certain topics, they must be located in the group of the correct topic.
 
+The gender perspective is one of the central issues, due to the great controversy that exists around the issue, people who identify as feminists are harassed in different ways, to denounce the different networks consider that there are no elements to eliminate profiles or accounts that generate this violence
   
+# Target
 
-#Comparing competitors
+The target will focus on feminist women from the age of 18 to 35 years old, inhabitants of Mexico, feminists or interested in the movement, women who actively participate in the movement and active online in places with feminist themes, will not share with radical feminism . As potential users will be men of ages ranging from 20 years to 35 years, developing in media sectors, related to social and educational sciences, profeminists or with deconstruction interests.
 
-  
+# Comparing competitors
+
+According to the latest study published by We Are Social and Hootsuite ["Digital in 2018"](https://wearesocial.com/blog/2018/01/global-digital-report-2018) the most used social networks in Mexico are: Facebook, Youtube, Whatsapp, FB Messenger, Instagram, Twitter, Google+, Skype, Pinterest, Snapchat, Linkedin, and Taringa, we only take social networks and study through a benchmarking its main characteristics which are concentrated in the following tables.
 
 ![Benchmark competitors in login](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/benchmarks/Diapositiva1.PNG)
-
 ![Benchmark competitors in wall](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/benchmarks/Diapositiva2.PNG)
 
+With the information gathered we were able to locate the main characteristics with which we compete in the social media market, which we would use to implement according to the needs of the users and the use of other platforms.
   
-  
+# The proposal: 
 
-# SHERO: A feminist social network
+# SHERO A feminist social network
 
-  
-  
-  
+The proposal is to develop a social network focused on feminist people, which can be used by people who share this ideology regardless of gender, age, gender, etc.
+
+The first prototype will be launched in Spanish but a second scope that covers more languages ​​is not ruled out.
+
+This social network will be minimalist, organized and will have access to topics with permanent leagues and filtering systems more friendly than other social networks.
 
 # Prototype
 
 An **app-mobile first** web based design was realized. This is our first version.
 
-  
-
 ### Mobile
 
 **First sketches ideas**
-
-  
 
 ![inicio](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Inicio.jpg)
 
@@ -121,19 +123,13 @@ An **app-mobile first** web based design was realized. This is our first version
 
 ![sidebar](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-mobile/Sidebar.jpg)
 
-  
-
 **Final sketches ideas**
-
-  
 
 ### Web design
 
-  
 
 **First sketches ideas**
 
-  
 
 ![inicio-registro](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-desktop/Inicio-Registro.jpg)
 
@@ -145,9 +141,7 @@ An **app-mobile first** web based design was realized. This is our first version
 
 ![sidebar](https://anndygrs.github.io/cdmx-2018-06-bc-core-am-social-network/ux/images/sketch-desktop/Sidebar.jpg)
 
-  
-  
-  
+
 
 **Final sketches ideas**
 
@@ -162,16 +156,23 @@ An **app-mobile first** web based design was realized. This is our first version
   
   
 
-### Colors
+# Colors
 
+The colors, images, symbologies of feminism have been built for a long time, each one has a special meaning.
+
+These representative colors were taken, such as purple, pink, and black, were varied in different shades to achieve aesthetic and inclusive tonalities, these colors were applied on the desktop page and the query was taken through the second survey, giving as The third option was the favorite among the respondents.
+
+### 1
 ![1](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette1.png)
 
+### 2
 ![2](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette2.png)
 
+### 3
 ![3](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette3.png)
-
+### 4
 ![4](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette4.png)
-
+### 5
 ![5](https://github.com/LexHernandez/cdmx-2018-06-bc-core-am-social-network/blob/master/ux/images/palettes/PruebaPalette5.png)
 
   
